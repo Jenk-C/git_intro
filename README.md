@@ -1,1 +1,2 @@
-"Cadence Jenkins" 
+Cadence Jenkins 
+jenkcade@oregonstate.edu
